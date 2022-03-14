@@ -27,7 +27,7 @@ export const AddHouse = () => {
   }
   useEffect(() => {
     getData();
-  });
+  }, []);
 
 
   const handlesubmit = (e) => {
