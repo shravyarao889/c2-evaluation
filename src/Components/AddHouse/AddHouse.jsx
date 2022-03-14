@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
-import { useEffect } from "react/cjs/react.production.min";
+import { useEffect } from "react";
 
 export const AddHouse = () => {
   const [formData, setFormdata] = useState({

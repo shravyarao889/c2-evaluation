@@ -1,4 +1,40 @@
 {
-  "houses": []
-    
+  "houses": [
+    {
+      "name": "shravya",
+      "ownerName": "saitejs",
+      "address": "1-5-12-34/2",
+      "areaCode": "1",
+      "rent": "10000",
+      "preferred_tenants": "bachelor",
+      "id": 1
+    },
+    {
+      "name": "prasanna",
+      "ownerName": "Shravya",
+      "address": "1-2-89/2/3",
+      "areaCode": "2",
+      "rent": "5000",
+      "preferred_tenants": "married",
+      "id": 2
+    },
+    {
+      "name": "Vanaja",
+      "ownerName": "Thanuj",
+      "address": "1-5-141/3/2",
+      "areaCode": "3",
+      "rent": "20000",
+      "preferred_tenants": "bachelor",
+      "id": 3
+    },
+    {
+      "name": "jeevan",
+      "ownerName": "Prasad",
+      "address": "2-3-165/3/5",
+      "areaCode": "4",
+      "rent": "50000",
+      "preferred_tenants": "bachelor",
+      "id": 4
+    }
+  ]
 }
