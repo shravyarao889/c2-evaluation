@@ -35,6 +35,24 @@
       "rent": "50000",
       "preferred_tenants": "bachelor",
       "id": 4
+    },
+    {
+      "name": "Divya",
+      "ownerName": "Reddy",
+      "address": "1-6-3246/6/4",
+      "areaCode": "5",
+      "rent": "90000",
+      "preferred_tenants": "bachelor",
+      "id": 5
+    },
+    {
+      "name": "Riverdale",
+      "ownerName": "saitejs",
+      "address": "1-0-58/3/2",
+      "areaCode": "8",
+      "rent": "72389",
+      "preferred_tenants": "bachelor",
+      "id": 6
     }
   ]
 }
