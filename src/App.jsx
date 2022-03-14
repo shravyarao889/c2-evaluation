@@ -1,15 +1,17 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import "./App.css";
+import { Rentals } from "./Components/Rentals/Rentals";
+import { AddHouse } from "./Components/AddHouse/AddHouse";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="App">
-     <h1>Hello World</h1>
+      <button className="toggleForm">
+        {/* Show text Add House or Show Rentals based on state */}
+      </button>
+      {/* Show component based on state */}
+      <br />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
